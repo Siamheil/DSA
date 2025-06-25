@@ -1,5 +1,6 @@
 class Solution {
 public:
+//palindrome
     bool isPalindrome(int x) {
         if (x < 0 || (x && x % 10 == 0)) {
             return false;
