@@ -1,20 +1,22 @@
+
 class Solution {
   public:
     bool findPair(vector<int> &arr, int x) {
-        int n = arr.size();
-        sort(arr.begin(), arr.end()); // sort first
-
-        int i = 0, j = 1;
-        while (i < n && j < n) {
-            if (i != j && arr[j] - arr[i] == x) {
-                return true;
-            }
-            else if (arr[j] - arr[i] < x) {
-                j++; // need bigger difference
-            }
-            else {
-                i++; // need smaller difference
-            }
+        // code here
+        sort(arr.begin(),arr.end());
+        int n=arr.size();
+        int start=0,end=1;
+        if(x<0)
+        x=x*(-1);
+        while(end<n){
+            if(arr[end]-arr[start]==x)
+            return true;
+            else if(arr[end]-arr[start]<x)
+            end++;
+            else
+            start++;
+            if(start==end)
+            end++;
         }
         return false;
     }
