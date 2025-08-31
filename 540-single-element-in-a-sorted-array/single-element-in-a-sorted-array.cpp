@@ -1,24 +1,23 @@
 class Solution {
-public:
-    int singleNonDuplicate(vector<int>& nums) {
-        int n = nums.size();
-        int left = 0;
-        int right = n-1;
+  public:
+    int singleNonDuplicate(vector<int>& arr) {
+        int n = arr.size();
+        int low = 0, high = n-1;
 
-        while(left < right){
-            int mid = left + (right - left) / 2;
+        while(low < high){
+            int mid = low + (high-low)/2;
 
-            if(mid % 2 == 1){
-                mid--;
-            }
-            if(nums[mid] != nums[mid + 1]){
-                right = mid;
-            }
-            else{
-                left = mid + 2;
+           
+            if(mid % 2 == 1) mid--;
+
+            if(arr[mid] == arr[mid+1]){
+                
+                low = mid + 2;
+            } else {
+                
+                high = mid;
             }
         }
-
-        return nums[left];
+        return arr[low];
     }
 };
