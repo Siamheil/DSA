@@ -1,24 +1,18 @@
 class Solution {
-public:
+  public:
     int single(vector<int>& arr) {
-        int n = arr.size();
-        int left = 0;
-        int right = n-1;
-
-        while(left < right){
-            int mid = left + (right - left) / 2;
-
-            if(mid % 2 == 1){
-                mid--;
-            }
-            if(arr[mid] != arr[mid + 1]){
-                right = mid;
-            }
-            else{
-                left = mid + 2;
+        // code here
+        int n=arr.size();
+        for(int i=0;i<n;i++){
+            if(i==0){
+                if(arr[i]!=arr[i+1]) return arr[i];
+            }else if(i == n-1){
+                if(arr[i]!=arr[i-1]) return arr[i];
+            }else{
+                if(arr[i]!=arr[i-1] && arr[i]!=arr[i+1])
+                return arr[i];
             }
         }
-
-        return arr[left];
+        return -1;
     }
 };
