@@ -1,30 +1,21 @@
 class Solution {
-public:
-    bool isBalanced(string& k) {
+  public:
+    bool isBalanced(string& s) {
         stack<char> st;
-        int n = k.size();
-
-        for (int i = 0; i < n; i++) {
-            // If opening bracket, push to stack
-            if (k[i] == '(' || k[i] == '{' || k[i] == '[') {
-                st.push(k[i]);
-            } 
-            else {
-                // If stack is empty, no matching opening bracket
+        for (char ch : s) {
+            if (ch == '(' || ch == '{' || ch == '[') {
+                st.push(ch);
+            } else {
                 if (st.empty()) return false;
-
-                // Check for matching pair
-                if ((st.top() == '(' && k[i] == ')') ||
-                    (st.top() == '{' && k[i] == '}') ||
-                    (st.top() == '[' && k[i] == ']')) {
-                    st.pop();
-                } else {
+                char top = st.top();
+                if ((ch == ')' && top != '(') ||
+                    (ch == '}' && top != '{') ||
+                    (ch == ']' && top != '[')) {
                     return false;
                 }
+                st.pop();
             }
         }
-
-        // If stack is empty, all brackets matched
         return st.empty();
     }
 };
