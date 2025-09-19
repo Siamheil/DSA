@@ -1,0 +1,11 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1?page=2&category=Arrays,Strings,Stack&difficulty=Easy&sortBy=latest">Intersection of Two Sorted Arrays with Duplicate Elements</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given two&nbsp;<strong>sorted</strong>&nbsp;arrays&nbsp;<strong>a[]</strong>&nbsp;and&nbsp;<strong>b[]</strong>, where each array may contain&nbsp;<strong>duplicate</strong>&nbsp;elements , the task is to return the elements in the&nbsp;<strong>intersection</strong>&nbsp;of the two arrays in&nbsp;<strong>sorted</strong>&nbsp;order.</span></p>
+<blockquote><span style="font-size: 18px;">Intersection of two arrays can be defined as the set containing distinct common elements that are present in both of the arrays.</span></blockquote>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input</strong>: a[] = [1, 2, 3, 4, 5], b[] = [1, 2, 3, 6, 7]</span><br><span style="font-size: 18px;"><strong>Output</strong>: 1 2 3</span><br><span style="font-size: 18px;"><strong>Explanation</strong>: Distinct elements in both the arrays are: 1 2 3.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input</strong>: a[] = [2, 2, 3, 4, 5], b[] = [1, 1, 2, 3, 4]
+<strong>Output</strong>: 2 3 4
+<strong>Explanation</strong>: Distinct elements in both the arrays are: 2 3 4.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input</strong>: a[] = [1, 1, 1, 1, 1], b[] = [2, 2, 2, 2, 2]
+<strong>Output</strong>: []
+<strong>Explanation</strong>: No common elements.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1&nbsp; &lt;=&nbsp; a.size(), b.size()&nbsp; &lt;=&nbsp; 10<sup>5</sup><br>-10<sup>9</sup>&nbsp; &lt;=&nbsp; a[i] , b[i]&nbsp; &lt;=&nbsp; 10<sup>9</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Sorting</code>&nbsp;<code>Arrays</code>&nbsp;
