@@ -1,0 +1,11 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/equal-to-product3836/0">Product Pair</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array, <strong>arr[] </strong>of positive integers, and a number <strong>x</strong>, find if there is a pair in arr[] with a product equal to <strong>x</strong>. Return true if there exists such pair otherwise false.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [10, 20, 9, 40], x = 400
+<strong>Output:</strong> true
+<strong>Explanation:</strong> As 10 * 40 = 400, the answer is true.
+</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [-10, 20, 9, -40], x = 30
+<strong>Output:</strong> false
+<strong>Explanation:</strong> No pair exists with product 30.</span></pre>
+<p><span style="font-size: 18px;"><strong>Expected Time Complexity:</strong> O(n)<br><strong>Expected Space&nbsp;</strong></span><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 18px;">Complexity</strong><strong style="font-size: 18px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">:</strong><span style="font-size: 18px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"> O(n)</span></p>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ arr.size ≤ 10<sup>5</sup><br>-10<sup>8</sup>&nbsp;≤ |arr<sub>i</sub>| ≤ 10<sup>8</sup><br>-10<sup>18</sup> ≤ |x| ≤ 10<sup>18</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Amazon</code>&nbsp;<code>Visa</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Data Structures</code>&nbsp;
