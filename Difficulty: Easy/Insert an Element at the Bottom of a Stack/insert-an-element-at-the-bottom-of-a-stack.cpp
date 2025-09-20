@@ -7,9 +7,8 @@ class Solution {
         while(!st.empty()){
             temp.push(st.top());
             st.pop();
-            
         }
-        st.push(x);
+        temp.push(x);
         while(!temp.empty()){
             st.push(temp.top());
             temp.pop();
