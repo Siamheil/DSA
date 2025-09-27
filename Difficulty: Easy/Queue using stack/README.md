@@ -1,0 +1,18 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/queue-using-stack/1">Queue using stack</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Implement a&nbsp;<strong>Queue </strong>using <strong data-start="171" data-end="181">stacks</strong>. You are allowed to use only stack data structures to implement the queue.<br>The Queue must support the following operations:</span></p>
+<p><span style="font-size: 14pt;"><strong>(i)</strong><strong>&nbsp;enqueue(x):</strong>&nbsp;Insert an element x at the rear of the queue.<br><strong>(ii)</strong>&nbsp;<strong>dequeue():</strong> Remove the element from the front of the queue.</span><br><span style="font-size: 14pt;"><strong>(iii)</strong>&nbsp;</span><span style="font-size: 14pt;"><strong data-start="486" data-end="497">front()</strong>: Return the front element if the queue is not empty, else return -1.<br><strong>(iv)</strong>&nbsp;<strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;" data-start="837" data-end="847">size()</strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">: Return the number of elements currently in the queue.</span></span></p>
+<p><span style="font-size: 14pt;">There will be a sequence of queries&nbsp;<strong>queries[][]</strong>. The queries are represented in numeric form:<br></span></p>
+<ul>
+<li><span style="font-size: 14pt;">1 x : Call enqueue(x)</span></li>
+<li><span style="font-size: 14pt;">2: Call dequeue()</span></li>
+<li><span style="font-size: 14pt;">3: Call front()</span></li>
+<li><span style="font-size: 14pt;">4: Call size()</span></li>
+</ul>
+<p><span style="font-size: 14pt;">You just have to implement the functions&nbsp;<strong>enqueue,&nbsp;</strong><strong>dequeue,&nbsp;</strong><strong>front </strong>and&nbsp;<strong>size.</strong>&nbsp;The driver code will handle the input and output.</span></p>
+<p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>q = 7, queries[][] = [[1, 5], [1, 3], [1, 4], [3], [2], [4], [3]]
+<strong>Output: </strong>[5, 2, 3]<strong>
+Explanation: </strong>Queries on queue are as follows:<br>enqueue(5): Insert 5 at the rear of the queue.<br>enqueue(3): Insert 3 at the rear of the queue.<br>enqueue(4): Insert 4 at the rear of the queue.<br>front(): Return the front element i.e 5.<br>dequeue(): Remove the front element 5 from the queue.<br>size(): Queue now has 2 elements.<br>front(): Return the front element i.e 3.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>q = 3, queries[][] = [[3], [4], [1, 10]]
+<strong>Output: </strong>[-1, 0]<strong>
+Explanation: </strong>Queries on queue are as follows:<br>front(): Queue is empty, return -1.</span><br><span style="font-size: 14pt;">size(): Queue contains 0 elements return 0.<br>enqueue(10): Insert 10 at the rear (no output for enqueue).</span></pre>
+<p><span style="font-size: 14pt;"><strong style="font-size: 14pt;">Constraints:</strong><br></span><span style="font-size: 14pt;">1 ≤ number of query ≤ 10<sup>3</sup><br>0 ≤ x<strong>&nbsp;</strong>≤ 10<sup>5</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Microsoft</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Stack</code>&nbsp;<code>Queue</code>&nbsp;<code>Design-Pattern</code>&nbsp;<code>Data Structures</code>&nbsp;
