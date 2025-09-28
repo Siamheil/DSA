@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Siamheil/DSA/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
