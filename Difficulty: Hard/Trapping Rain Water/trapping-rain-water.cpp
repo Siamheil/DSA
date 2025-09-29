@@ -1,10 +1,33 @@
 class Solution {
 public:
-    int maxWater(vector<int>& arr) {
-        int l = 0, r = arr.size() - 1, res = 0, lMax = 0, rMax = 0;
-        while (l < r) {
-            arr[l] < arr[r] ? (lMax = max(lMax, arr[l]), res += lMax - arr[l++]) : (rMax = max(rMax, arr[r]), res += rMax - arr[r--]);
+    int maxWater(vector<int>& height) {
+        int n=height.size();
+        int water=0,leftmax=0,rightmax=0,maxheight=height[0],index=0;
+        //maxheight building
+        for(int i=1;i<n;i++)
+        {
+            if(maxheight<height[i])
+            {
+                maxheight=height[i];
+                index=i;
+            }
         }
-        return res;
+        //left part
+        for(int i=0;i<index;i++)
+        {
+            if(leftmax>height[i])
+            water+=leftmax-height[i];
+            else
+            leftmax=height[i];
+        }
+        //right part
+        for(int i=n-1;i>index;i--)
+        {
+            if(rightmax>height[i])
+            water+=rightmax-height[i];
+            else
+            rightmax=height[i];
+        }
+        return water;
     }
 };
