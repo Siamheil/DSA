@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Siamheil/DSA/tree/master/0002-add-two-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -71,6 +72,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Siamheil/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siamheil/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Siamheil/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Siamheil/DSA/tree/master/0061-rotate-list) |
@@ -84,6 +86,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Siamheil/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Siamheil/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Siamheil/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Siamheil/DSA/tree/master/0234-palindrome-linked-list) |
