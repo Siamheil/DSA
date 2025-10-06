@@ -1,0 +1,13 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/intersection-point-in-y-shaped-linked-lists--170645/1">Intersection Point in Y Shaped Linked Lists</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given two singly linked lists<strong>, </strong>write a program to get the point where two linked lists intersect each other.&nbsp;If the linked list does not merge at any point, it should return -1.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>LinkedList1: 3-&gt;6-&gt;9-&gt;common, LinkedList2: 10-&gt;common, common: 15-&gt;30-&gt;NULL
+<strong>Output: </strong>15
+<strong>Explanation:
+</strong></span><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713544/Web/Other/blobid1_1723204650.png" width="443" height="265"> </pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>LinkedList1: 4-&gt;1-&gt;common, LinkedList2: 5-&gt;6-&gt;1-&gt;common, common: 8-&gt;4-&gt;5-&gt;NULL
+<strong>Output: </strong>8
+<strong>Explanation: </strong></span>
+<span style="font-size: 18px;"><strong><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713544/Web/Other/blobid2_1723204735.png" width="428" height="322"> &nbsp;</strong></span></pre>
+<p><span style="font-size: 18px;"><strong>Expected Time Complexity:</strong> O(n+m)<br><strong>Expected Space&nbsp;</strong></span><strong style="font-size: 18px;">Complexity</strong><strong style="font-size: 18px;">:</strong><span style="font-size: 18px;"> O(n)</span></p>
+<p><span style="font-size: 18px;"><strong>Constraints:<br></strong></span><span style="font-size: 18px;">Length of Both LinkedList before the intersection(if any) is greater than 0.<br>1 ≤ no. of nodes in LinkedList1, LinkedList2 ≤ 10<sup>5</sup><br>-1000 ≤ node-&gt;data ≤ 1000</span></p>
+<p><strong style="font-size: 18px;">Challenge</strong><span style="font-size: 18px;">: Try to solve the problem without using any extra space.</span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>VMWare</code>&nbsp;<code>Flipkart</code>&nbsp;<code>Accolite</code>&nbsp;<code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>Snapdeal</code>&nbsp;<code>D-E-Shaw</code>&nbsp;<code>FactSet</code>&nbsp;<code>MakeMyTrip</code>&nbsp;<code>Visa</code>&nbsp;<code>Goldman Sachs</code>&nbsp;<code>MAQ Software</code>&nbsp;<code>Adobe</code>&nbsp;<code>Qualcomm</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Linked List</code>&nbsp;<code>Data Structures</code>&nbsp;
