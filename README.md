@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Siamheil/DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Siamheil/DSA/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Siamheil/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siamheil/DSA/tree/master/0342-power-of-four) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Siamheil/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Siamheil/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Siamheil/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Siamheil/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Siamheil/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Siamheil/DSA/tree/master/0326-power-of-three) |
