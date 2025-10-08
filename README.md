@@ -74,6 +74,7 @@
 | [0342-power-of-four](https://github.com/Siamheil/DSA/tree/master/0342-power-of-four) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Siamheil/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Siamheil/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Prefix Sum
 |  |
 | ------- |
