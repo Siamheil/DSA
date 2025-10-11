@@ -45,6 +45,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/Siamheil/DSA/tree/master/1137-height-checker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
@@ -129,6 +130,7 @@
 | [0148-sort-list](https://github.com/Siamheil/DSA/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/Siamheil/DSA/tree/master/1137-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Siamheil/DSA/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Siamheil/DSA/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
