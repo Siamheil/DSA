@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Siamheil/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Siamheil/DSA/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Siamheil/DSA/tree/master/0342-power-of-four) |
 ## Two Pointers
@@ -45,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/Siamheil/DSA/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0941-sort-array-by-parity) |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Siamheil/DSA/tree/master/0392-is-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
