@@ -11,18 +11,16 @@ class Solution {
   public:
     int getKthFromLast(Node* head, int k) {
         // code here
-        int count=0;
-        Node* temp=head;
-        while(temp!=NULL){
-            count++;
-            temp=temp->next;
+        Node* slow=head;
+        Node* fast=head;
+        for(int i=1;i<=k;i++){
+            if(fast==NULL) return -1;
+            fast=fast->next;
         }
-        if(k>count) return -1;
-        count=count-k;
-        Node* curr=head;
-        while(count--){
-            curr=curr->next;
+        while(fast!=NULL){
+            slow=slow->next;
+            fast=fast->next;
         }
-        return curr->data;
+        return slow ? slow->data : -1;
     }
 };
