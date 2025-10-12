@@ -13,9 +13,7 @@ class Solution {
   public:
     void deleteNode(Node* curr) {
         // code here
-        Node *temp=curr->next;
-        curr->data=temp->data;
-        curr->next=temp->next;
-        delete temp;
+        curr->data=curr->next->data;
+        curr->next=curr->next->next;
     }
 };
