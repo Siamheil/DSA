@@ -8,6 +8,7 @@ public:
         subsequence(nums,index+1,n,ans,temp);
         temp.push_back(nums[index]);
         subsequence(nums,index+1,n,ans,temp);
+        temp.pop_back();
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>>ans;
