@@ -11,12 +11,14 @@
 | [0383-ransom-note](https://github.com/Siamheil/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Siamheil/DSA/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Siamheil/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Siamheil/DSA/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Siamheil/DSA/tree/master/0067-add-binary) |
+| [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
 ## Merge Sort
 |  |
 | ------- |
