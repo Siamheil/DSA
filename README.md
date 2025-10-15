@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Siamheil/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/Siamheil/DSA/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -177,5 +178,6 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Siamheil/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
