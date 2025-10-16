@@ -37,6 +37,7 @@
 | [0018-4sum](https://github.com/Siamheil/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siamheil/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siamheil/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Siamheil/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Siamheil/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Siamheil/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Siamheil/DSA/tree/master/0141-linked-list-cycle) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Siamheil/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Siamheil/DSA/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Siamheil/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Siamheil/DSA/tree/master/0088-merge-sorted-array) |
