@@ -16,16 +16,9 @@ struct Node
 
 class Solution {
   public:
-    void sizeofbt(Node* node,int& count){
-        if(node==NULL) return;
-        count++;
-        sizeofbt(node->left,count);
-        sizeofbt(node->right,count);
-    }
-    int getSize(Node* node) {
+    int getSize(Node* root) {
         // code here
-        int count=0;
-        sizeofbt(node,count);
-        return count;
+        if(!root) return 0;
+        return 1+getSize(root->right)+getSize(root->left);
     }
 };
