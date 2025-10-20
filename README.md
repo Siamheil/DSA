@@ -105,6 +105,7 @@
 | [0002-add-two-numbers](https://github.com/Siamheil/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Siamheil/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Siamheil/DSA/tree/master/0067-add-binary) |
+| [0263-ugly-number](https://github.com/Siamheil/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Siamheil/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siamheil/DSA/tree/master/0342-power-of-four) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
