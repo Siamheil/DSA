@@ -20,6 +20,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Siamheil/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Siamheil/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Siamheil/DSA/tree/master/0234-palindrome-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
 ## Divide and Conquer
@@ -71,6 +72,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Siamheil/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0941-sort-array-by-parity) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1137-height-checker](https://github.com/Siamheil/DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Siamheil/DSA/tree/master/1217-relative-sort-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -231,6 +233,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Siamheil/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -273,6 +276,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Siamheil/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -297,8 +301,13 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
