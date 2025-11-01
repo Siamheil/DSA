@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siamheil/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Siamheil/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Siamheil/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Siamheil/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Siamheil/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Siamheil/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -277,6 +279,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Siamheil/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Siamheil/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Siamheil/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Siamheil/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/Siamheil/DSA/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Siamheil/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -307,6 +310,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Siamheil/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Siamheil/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Siamheil/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Siamheil/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -361,4 +365,8 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/1285-balance-a-binary-search-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Siamheil/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
