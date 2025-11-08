@@ -10,12 +10,8 @@ public:
             rem=prefixsum%k;
             if(rem<0)
             rem=rem+k;
-            if(mp.count(rem)){
-                total+=mp[rem];
-                mp[rem]++;
-            }else{
-                mp[rem]++;
-            }
+            total+=mp[rem];
+            mp[rem]++;
         }
         return total;
     }
