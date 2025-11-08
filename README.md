@@ -72,6 +72,7 @@
 | [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Siamheil/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/Siamheil/DSA/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Siamheil/DSA/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/Siamheil/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Siamheil/DSA/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Siamheil/DSA/tree/master/1236-n-th-tribonacci-number) |
