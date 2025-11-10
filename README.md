@@ -100,6 +100,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Siamheil/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Siamheil/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Siamheil/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
