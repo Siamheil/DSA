@@ -86,6 +86,7 @@
 | [0941-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siamheil/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Siamheil/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Siamheil/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/Siamheil/DSA/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Siamheil/DSA/tree/master/1137-height-checker) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Siamheil/DSA/tree/master/0383-ransom-note) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Siamheil/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
@@ -135,6 +137,7 @@
 | [0817-design-hashmap](https://github.com/Siamheil/DSA/tree/master/0817-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siamheil/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Siamheil/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Siamheil/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1217-relative-sort-array](https://github.com/Siamheil/DSA/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -452,6 +455,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Siamheil/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siamheil/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Siamheil/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Siamheil/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siamheil/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
