@@ -91,6 +91,7 @@
 | [1127-last-stone-weight](https://github.com/Siamheil/DSA/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Siamheil/DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Siamheil/DSA/tree/master/1217-relative-sort-array) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Siamheil/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Siamheil/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
