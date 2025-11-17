@@ -61,6 +61,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Siamheil/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Siamheil/DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Siamheil/DSA/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Siamheil/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Siamheil/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -83,6 +84,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Siamheil/DSA/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Siamheil/DSA/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Siamheil/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -244,6 +246,7 @@
 | [0148-sort-list](https://github.com/Siamheil/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Siamheil/DSA/tree/master/0506-relative-ranks) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Siamheil/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Siamheil/DSA/tree/master/0941-sort-array-by-parity) |
@@ -448,6 +451,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Siamheil/DSA/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
