@@ -183,6 +183,7 @@
 | [0342-power-of-four](https://github.com/Siamheil/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Siamheil/DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1323-maximum-69-number](https://github.com/Siamheil/DSA/tree/master/1323-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Siamheil/DSA/tree/master/1952-three-divisors) |
 | [2083-three-divisors](https://github.com/Siamheil/DSA/tree/master/2083-three-divisors) |
@@ -484,6 +485,7 @@
 | [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Siamheil/DSA/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/1285-balance-a-binary-search-tree) |
+| [1323-maximum-69-number](https://github.com/Siamheil/DSA/tree/master/1323-maximum-69-number) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Siamheil/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Function
