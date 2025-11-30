@@ -1,30 +1,18 @@
-/*
-class Node {
-public:
-    int data;
-    Node* next;
-
-    Node(int x) {
-        data = x;
-        next = NULL;
-    }
-};
-*/
 class Solution {
   public:
     Node* removeLastNode(Node* head) {
-        // code here
         if(head==NULL) return NULL;
         if(head->next==NULL){
-            delete head;
-            return NULL;
+            head=head->next;
+            return head;
         }
-        Node* curr=head;
-        while(curr->next->next!=NULL){
-            curr=curr->next;
+        else{
+            Node* curr=head;
+            while(curr->next->next!=NULL){
+                curr=curr->next;
+            }
+            curr->next=NULL;
         }
-        delete curr->next;
-        curr->next=NULL;
         return head;
     }
 };
