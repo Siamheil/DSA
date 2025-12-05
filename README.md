@@ -129,6 +129,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/Siamheil/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Siamheil/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siamheil/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Siamheil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -194,6 +195,7 @@
 | [2383-add-two-integers](https://github.com/Siamheil/DSA/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Siamheil/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siamheil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Siamheil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Siamheil/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Siamheil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Design
 |  |
 | ------- |
