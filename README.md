@@ -189,6 +189,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Siamheil/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Siamheil/DSA/tree/master/1323-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
+| [1925-count-square-sum-triples](https://github.com/Siamheil/DSA/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Siamheil/DSA/tree/master/1952-three-divisors) |
 | [2083-three-divisors](https://github.com/Siamheil/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Siamheil/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -526,6 +527,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Siamheil/DSA/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Siamheil/DSA/tree/master/1952-three-divisors) |
 | [2083-three-divisors](https://github.com/Siamheil/DSA/tree/master/2083-three-divisors) |
 ## Bucket Sort
