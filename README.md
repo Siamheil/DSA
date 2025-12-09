@@ -182,6 +182,7 @@
 | [0002-add-two-numbers](https://github.com/Siamheil/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Siamheil/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Siamheil/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Siamheil/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Siamheil/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siamheil/DSA/tree/master/0342-power-of-four) |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Siamheil/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Siamheil/DSA/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/1013-fibonacci-number) |
@@ -511,6 +513,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Siamheil/DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Data Stream
