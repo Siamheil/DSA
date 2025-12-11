@@ -1,11 +1,12 @@
-// User function Template for C++
 class Solution {
   public:
+    int solve(vector<int>&dp,int n){
+        if(n<=1) return n;
+        if(dp[n]!=-1) return dp[n];
+        return dp[n]=solve(dp,n-1)+solve(dp,n-2);
+    } 
     int nthFibonacci(int n) {
-        // code here
-        if(n==0) return 0;
-        if(n==1) return 1;
-        
-        return nthFibonacci(n-1)+nthFibonacci(n-2);
+        vector<int>dp(n+1,-1);
+        return solve(dp,n);
     }
 };
