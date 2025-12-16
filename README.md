@@ -82,6 +82,7 @@
 | [0031-next-permutation](https://github.com/Siamheil/DSA/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Siamheil/DSA/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/Siamheil/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Siamheil/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Siamheil/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -311,6 +312,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Siamheil/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Siamheil/DSA/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
@@ -343,6 +345,7 @@
 | [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Siamheil/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Siamheil/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Siamheil/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Siamheil/DSA/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Siamheil/DSA/tree/master/0279-perfect-squares) |
