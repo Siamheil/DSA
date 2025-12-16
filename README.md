@@ -182,6 +182,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Siamheil/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Siamheil/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Siamheil/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Siamheil/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Siamheil/DSA/tree/master/0263-ugly-number) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Siamheil/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Siamheil/DSA/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Siamheil/DSA/tree/master/0279-perfect-squares) |
@@ -556,4 +558,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Siamheil/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Siamheil/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
