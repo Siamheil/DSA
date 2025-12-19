@@ -93,6 +93,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Siamheil/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Siamheil/DSA/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/Siamheil/DSA/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Siamheil/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -352,6 +353,7 @@
 | [0279-perfect-squares](https://github.com/Siamheil/DSA/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Siamheil/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Siamheil/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Siamheil/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/1013-fibonacci-number) |
@@ -362,6 +364,7 @@
 | [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Siamheil/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Siamheil/DSA/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
