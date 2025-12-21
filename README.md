@@ -17,6 +17,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Siamheil/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siamheil/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/Siamheil/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2937-make-three-strings-equal](https://github.com/Siamheil/DSA/tree/master/2937-make-three-strings-equal) |
 | [3379-score-of-a-string](https://github.com/Siamheil/DSA/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Siamheil/DSA/tree/master/3447-clear-digits) |
 ## Stack
