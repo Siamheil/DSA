@@ -92,6 +92,7 @@
 | [0078-subsets](https://github.com/Siamheil/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Siamheil/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Siamheil/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Siamheil/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Siamheil/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -360,6 +361,7 @@
 | [0070-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Siamheil/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Siamheil/DSA/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Siamheil/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Siamheil/DSA/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Siamheil/DSA/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Siamheil/DSA/tree/master/0392-is-subsequence) |
