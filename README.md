@@ -6,6 +6,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siamheil/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/Siamheil/DSA/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Siamheil/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Siamheil/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Siamheil/DSA/tree/master/0115-distinct-subsequences) |
@@ -266,6 +267,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Siamheil/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Siamheil/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Siamheil/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Siamheil/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Siamheil/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Siamheil/DSA/tree/master/0206-reverse-linked-list) |
@@ -351,6 +353,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siamheil/DSA/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Siamheil/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Siamheil/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Siamheil/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Siamheil/DSA/tree/master/0064-minimum-path-sum) |
@@ -530,6 +533,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Siamheil/DSA/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Siamheil/DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Siamheil/DSA/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/1285-balance-a-binary-search-tree) |
