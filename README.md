@@ -224,6 +224,7 @@
 | [0326-power-of-three](https://github.com/Siamheil/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siamheil/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/0509-fibonacci-number) |
+| [0650-2-keys-keyboard](https://github.com/Siamheil/DSA/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Siamheil/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Siamheil/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -400,6 +401,7 @@
 | [0509-fibonacci-number](https://github.com/Siamheil/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Siamheil/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Siamheil/DSA/tree/master/0518-coin-change-ii) |
+| [0650-2-keys-keyboard](https://github.com/Siamheil/DSA/tree/master/0650-2-keys-keyboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0935-knight-dialer](https://github.com/Siamheil/DSA/tree/master/0935-knight-dialer) |
 | [0983-minimum-cost-for-tickets](https://github.com/Siamheil/DSA/tree/master/0983-minimum-cost-for-tickets) |
