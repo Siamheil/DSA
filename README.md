@@ -140,6 +140,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Siamheil/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
+| [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Siamheil/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Siamheil/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -353,6 +354,7 @@
 | [0064-minimum-path-sum](https://github.com/Siamheil/DSA/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Siamheil/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siamheil/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/Siamheil/DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -583,6 +585,7 @@
 | [0890-lemonade-change](https://github.com/Siamheil/DSA/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1323-maximum-69-number](https://github.com/Siamheil/DSA/tree/master/1323-maximum-69-number) |
+| [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Siamheil/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Function
