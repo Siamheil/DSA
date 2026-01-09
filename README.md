@@ -197,6 +197,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/Siamheil/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Siamheil/DSA/tree/master/0817-design-hashmap) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siamheil/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Siamheil/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siamheil/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Siamheil/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -461,6 +462,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Siamheil/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siamheil/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Siamheil/DSA/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Siamheil/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -494,6 +496,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Siamheil/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siamheil/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Siamheil/DSA/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Siamheil/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Siamheil/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -534,6 +537,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siamheil/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Siamheil/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siamheil/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Siamheil/DSA/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siamheil/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Siamheil/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -557,6 +561,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Siamheil/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Siamheil/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siamheil/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siamheil/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Siamheil/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Siamheil/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
