@@ -15,6 +15,7 @@
 | [0392-is-subsequence](https://github.com/Siamheil/DSA/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Siamheil/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0606-construct-string-from-binary-tree](https://github.com/Siamheil/DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Siamheil/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1044-find-common-characters](https://github.com/Siamheil/DSA/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Siamheil/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Siamheil/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -411,6 +412,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Siamheil/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Siamheil/DSA/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/Siamheil/DSA/tree/master/0650-2-keys-keyboard) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Siamheil/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Siamheil/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0935-knight-dialer](https://github.com/Siamheil/DSA/tree/master/0935-knight-dialer) |
 | [0983-minimum-cost-for-tickets](https://github.com/Siamheil/DSA/tree/master/0983-minimum-cost-for-tickets) |
