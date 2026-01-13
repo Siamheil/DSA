@@ -167,6 +167,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Siamheil/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siamheil/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Siamheil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3453-separate-squares-i](https://github.com/Siamheil/DSA/tree/master/3453-separate-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Siamheil/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -179,6 +180,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Siamheil/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siamheil/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/Siamheil/DSA/tree/master/3453-separate-squares-i) |
 ## Counting
 |  |
 | ------- |
