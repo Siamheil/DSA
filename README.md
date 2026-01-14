@@ -147,6 +147,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Siamheil/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Siamheil/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Siamheil/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1626-best-team-with-no-conflicts](https://github.com/Siamheil/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1635-number-of-good-pairs](https://github.com/Siamheil/DSA/tree/master/1635-number-of-good-pairs) |
 | [1975-maximum-matrix-sum](https://github.com/Siamheil/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/Siamheil/DSA/tree/master/1983-maximum-population-year) |
@@ -343,6 +344,7 @@
 | [1137-height-checker](https://github.com/Siamheil/DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Siamheil/DSA/tree/master/1217-relative-sort-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Siamheil/DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1626-best-team-with-no-conflicts](https://github.com/Siamheil/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Siamheil/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Siamheil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Siamheil/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -430,6 +432,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siamheil/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Siamheil/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Siamheil/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1626-best-team-with-no-conflicts](https://github.com/Siamheil/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Siamheil/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
